@@ -1,4 +1,4 @@
 import { CreatePlaylistDto } from "./create-playlist.dto";
 
-export class UpdatePlayListDto extends CreatePlaylistDto
+export class UpdatePlaylistDto extends CreatePlaylistDto
 {}
